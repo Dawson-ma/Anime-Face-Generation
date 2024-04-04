@@ -1,6 +1,6 @@
 # Anime Face Generation
 
-This project focuses on generating anime faces using a generative adversarial network (GAN). The model has been recognized as the best example among 1000 students, showcasing a remarkable Frechet inception distance score of **7293.72** and an anime face detection rate of **0.697**.
+Generating anime faces using a generative adversarial network (GAN). The model has been recognized as the best example among 1000 students, showcasing a remarkable Frechet inception distance score of **7293.72** and an anime face detection rate of **0.697**.
 
 ## Model Architecture
 
